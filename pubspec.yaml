@@ -1,0 +1,18 @@
+name: hill_cipher_lab
+description: Aplikasi lintas platform (Windows & Android) 100% offline untuk pembelajaran dan simulasi kriptografi Hill Cipher.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
